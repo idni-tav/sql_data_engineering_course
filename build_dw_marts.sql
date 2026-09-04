@@ -10,3 +10,6 @@
 
 -- step 3: mart - create flat mart (denormalized table)
 .read 03_create_flat_mart.sql
+
+-- step 4: mart - create skills demand mart
+.read 04_create_skills_mart.sql
