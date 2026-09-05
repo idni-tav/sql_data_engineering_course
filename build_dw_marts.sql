@@ -1,5 +1,5 @@
 
--- command to run on terminal and execute pipeline
+-- command to run on terminal and execute the whole pipeline
 -- duckdb dw_marts.duckdb -c ".read build_dw_marts.sql"
 
 -- step 1: dw - create start schema tables
